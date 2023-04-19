@@ -1,0 +1,19 @@
+.detail {
+    display: none;
+  }
+  
+.show-detail-btn {
+    background-color: #E6E6F8;
+    border: 2px solid #463E86;
+    border-radius: 5px;
+    color: #463E86;
+    padding: 8px 200px;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.show-detail-btn svg {
+    fill: #463E86;
+  }
